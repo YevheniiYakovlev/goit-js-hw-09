@@ -66,9 +66,9 @@
 
 //Для отображения уведомлений пользователю вместо window.alert() используй 
 //библиотеку notiflix.
-import flatpickr from "flatpickr";
+//import flatpickr from "flatpickr";
 // Дополнительный импорт стилей
-import "flatpickr/dist/flatpickr.min.css";
+//import "flatpickr/dist/flatpickr.min.css";
 
 
 
